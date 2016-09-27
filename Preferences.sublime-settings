@@ -1,0 +1,36 @@
+{
+	"auto_indent": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"detect_indentation": true,
+	"detect_slow_plugins": true,
+	"disable_formatted_linebreak": true,
+	"disable_tab_abbreviations": true,
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"font_face": "Source Han Code JP",
+	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"smart_indent": false,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": false,
+	"wrap_width": 0
+}
