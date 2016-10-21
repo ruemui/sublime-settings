@@ -6,21 +6,32 @@
 	"installed_packages":
 	[
 		"1337 Color Scheme",
+		"All Autocomplete",
+		"AutoFileName",
 		"Autoprefixer",
 		"Boxy Theme",
 		"Codecs33",
 		"Color Highlighter",
 		"Console API Snippets (JavaScript)",
 		"ConvertToUTF8",
+		"CSS Completions",
+		"CSS3",
+		"CSScomb",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Goto-CSS-Declaration",
+		"Hayaku - tools for writing CSS faster",
 		"JavaScript Snippets",
+		"jQuery",
 		"Package Control",
 		"Sass",
 		"SASS Snippets",
+		"SCSS",
+		"SCSS Snippets",
 		"SFTP",
 		"SublimeLinter",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"View In Browser",
+		"WordHighlight"
 	]
 }

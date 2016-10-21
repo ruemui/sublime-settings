@@ -13,6 +13,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"CSS Completions",
+		"Emmet Css Snippets",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -30,7 +32,7 @@
 	"tab_size": 4,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": false,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
 	"wrap_width": 0
 }
